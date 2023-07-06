@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "fname": "Maruti Vitara Brezza",
+      "lname": "pooja",
+      "startdate": "2023-07-04",
+      "enddate": "2023-07-05",
+      "mom": "₹1500",
+      "dad": "Offline",
+      "contact": "8431821737",
+      "address": "jamakhandi",
+      "gender": "Female",
+      "id": 1
+    },
+    {
+      "fname": "Toyota YARIS",
+      "lname": "Dolli",
+      "startdate": "2023-07-04",
+      "enddate": "2023-07-05",
+      "mom": "₹1200",
+      "dad": "Online",
+      "contact": "8861311220",
+      "address": "mudhol",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "fname": "Maruti Baleno",
+      "lname": "Kavana",
+      "startdate": "2023-07-03",
+      "enddate": "2023-07-05",
+      "mom": "₹2000",
+      "dad": "Offline",
+      "contact": "874567896",
+      "address": "Gulbarga",
+      "gender": "Female",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,1 +1,14 @@
-<p>review works!</p>
+<div class="card-container">
+    <div class="card" *ngFor="let review of reviews">
+      <div class="card-header">
+        <h3>{{ review.name }}</h3>
+        <p>{{ review.date }}</p>
+      </div>
+      <div class="card-body">
+        <p>{{ review.comment }}</p>
+        <div class="rating">
+          <span class="star" [class.filled]="star <= review.rating" *ngFor="let star of [1, 2, 3, 4, 5]">&#9733;</span>
+        </div>
+      </div>
+    </div>
+  </div>
