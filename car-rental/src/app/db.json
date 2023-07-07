@@ -35,6 +35,18 @@
       "address": "Gulbarga",
       "gender": "Female",
       "id": 3
+    },
+    {
+      "fname": "Honda city",
+      "lname": "pallavi",
+      "startdate": "2023-07-11",
+      "enddate": "2023-07-12",
+      "mom": "₹600",
+      "dad": "Online",
+      "contact": "8654678456",
+      "address": "Bijapur",
+      "gender": "Female",
+      "id": 4
     }
   ],
   "comments": [],
